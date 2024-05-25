@@ -3,7 +3,7 @@
 ## Created a Database named 'DbWorld' with three tables - dbo.country, dbo.city, dbo.language
 ## Wrote Query to extract information as requested.
 
-### PART A : ASSIGNMENT QUESTIONS
+### PART A : QUERY THE DATABASE
 #### Question 1. Count Cities in USA
 #### Question 2. Country with Highest Life Expectancy
 #### Question 3. "New Year Promotion: Featuring Cities with 'New’
