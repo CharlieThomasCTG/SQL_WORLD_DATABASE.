@@ -1,6 +1,13 @@
 # SQL_WORLD_DATABASE.
 
 ## Created a Database named 'DbWorld' with three tables - dbo.country, dbo.city, dbo.language
+### Please Click the lick below for PDF document for documented queries with explanation.
+https://github.com/charliethomasct82/SQL_WORLD_DATABASE./blob/main/WorldDataBase_Query_Document.pdf
+### Please click the link below for the sql file for building the data base 'DbWorld'.
+https://github.com/charliethomasct82/SQL_WORLD_DATABASE./blob/main/Creating%20World%20DB%20file.sql
+### Please click the link below for the sql Query file for the data base 'DbWorld'.
+https://github.com/charliethomasct82/SQL_WORLD_DATABASE./blob/main/WORLD%20DATA%20BASE.sql
+
 ## Wrote Query to extract information as requested.
 
 ### PART A : QUERY THE DATABASE
