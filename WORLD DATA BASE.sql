@@ -1,6 +1,6 @@
 
 /* Specifying the Database Context*/
-Use SalesDW2;
+Use DbWorld;
 
 /*Stored procedure to rename the column 'code' to 'CountryCODE' */
 --EXEC sp_rename 'dbo.country.code', 'CountryCode', 'COLUMN';
